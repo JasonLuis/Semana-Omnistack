@@ -73,6 +73,7 @@ const styles = StyleSheet.create({
 
     listItem: {
         marginRight: 15,
+        marginBottom: 10,
     },
 
     thumbnail: {
